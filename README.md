@@ -17,7 +17,9 @@ Por ejemplo:
 
 Si el total de alumnos de una carrera es de 521 y tu posicion en el ranking es de 121. Tendrias 121/521 * 100 = 23% por lo tanto estarias en A5, sin embargo, considerar que hay margen de error en la aplicación por lo cual finalmente podrias quedar entre A5-B1.
 
-Por último la calculadora cuenta con una opcion que te avisa si puedes ser ayudante de la FIC, esto considerando que para postular necesitas estar en el 50% superior del ranking de tu carrera.
+Por último la calculadora cuenta con una opcion que te avisa si puedes ser ayudante de la FIC, esto considerando que para postular necesitas estar en el 50% superior del ranking de tu carrera. (Si no eres de la FIC esto simplemente se puede ignorar)
+
+La calculadora sirve para todas las facultades y escuelas.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
