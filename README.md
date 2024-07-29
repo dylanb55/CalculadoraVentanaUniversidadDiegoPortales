@@ -24,7 +24,7 @@ La calculadora sirve para todas las facultades y escuelas.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Finalmente, dejo el siguiente link a YouTube donde enseño a como descargar y usar la aplicación, ya que esta fue hecha en QT C++ y es necesario compilarlo, para uds no será necesario pues en mi canal de YouTube les dejare el link para llegar descargar y usar. 
-
+https://www.youtube.com/watch?v=xre0vhLNOCM
 Saludos cordiales
 
 Información tecnica:
